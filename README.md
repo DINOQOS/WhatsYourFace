@@ -16,4 +16,7 @@ Python", "java", "JSP", "MySql","tenserflow","Keras", "NumPy", "Pandas", "Flask"
 아직 개발을 완료하지 않았지만, 우선 동물상을 분류할 수 있는 프로젝트를 업로드 합니다.
 AI모델과 연결할 수 있는 API서버는 WhatsYourFace_API로 업로드 하겠습니다.
 
+
+https://github.com/DINOQOS/WhatsYourFace/blob/master/%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A1%20%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AB%2C%20%E1%84%82%E1%85%A2%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A9%E1%86%B7%20%E1%84%87%E1%85%AA%E1%84%8C%E1%85%AE%E1%84%80%E1%85%A6.pdf
 **PDF파일에 자세한 설명이 있습니다.**
+
